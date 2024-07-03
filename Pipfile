@@ -9,6 +9,11 @@ langchain-community = "*"
 langchain-experimental = "*"
 pandas = "*"
 tabulate = "*"
+sqlalchemy = "*"
+faiss-cpu = "*"
+sentence-transformers = "*"
+llama-index = "*"
+llama-index-vector-stores-faiss = "*"
 
 [dev-packages]
 
